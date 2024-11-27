@@ -1,4 +1,4 @@
-# Web Data Projects
+# Data Collection Projects
 
 This collection focuses on collecting publicly available data for educational and personal purposes. All projects in this repository adhere to ethical and legal guidelines.
 
